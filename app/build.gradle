@@ -18,8 +18,8 @@ android {
         }
     }
     productFlavors{
-        inAppPurchase{
-            applicationId "vn.tungdx.multipleapkeditions.purchase"
+        paid{
+            applicationId "vn.tungdx.multipleapkeditions.paid"
         }
         free{
             applicationId "vn.tungdx.multipleapkeditions.free"
